@@ -1,0 +1,9 @@
+Setup:
+
+
+
+
+After setup: 
+Git Fetch (command for pulling down recent changes). 
+
+
