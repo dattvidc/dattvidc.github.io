@@ -4,6 +4,28 @@ Setup:
 
 
 After setup: 
-Git Fetch (command for pulling down recent changes). 
+
+Daily work: 
+
+1. fetch new changes: 
+Git Fetch 
+    command for pulling down recent changes. 
+
+
+Working on branch:  
+
+git checkout [Branch Name] 
+    command for switching to existing branch
+
+
+Status: 
+
+Git status
+    Command for checking status on stagging
+
+
+git remote -v
+    Command for showing remotes 
+
 
 
