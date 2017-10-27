@@ -1,0 +1,43 @@
+Setup:
+
+
+
+
+After setup: 
+
+Daily work: 
+
+1. fetch new changes: 
+Git Fetch 
+    command for pulling down recent changes. 
+
+2. add your changes to stagging
+Git Add {filename or *}
+    add your work to staging 
+
+3. commit
+Git commit -m "your message"
+    commit now made
+
+4. push to remote
+Git push
+    adding to Github 
+
+
+Working on branch:  
+
+git checkout [Branch Name] 
+    command for switching to existing branch
+
+
+Status: 
+
+Git status
+    Command for checking status on stagging
+
+
+git remote -v
+    Command for showing remotes 
+
+
+
