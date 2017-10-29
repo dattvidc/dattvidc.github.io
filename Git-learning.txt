@@ -1,7 +1,8 @@
 Setup:
 
 
-
+Adding a remote 
+	git remote add origin [URL] 
 
 After setup: 
 
