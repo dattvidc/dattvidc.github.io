@@ -1,8 +1,16 @@
 Setup:
 
 
+
+Cloning existing
+  	git clone (URL)
+
+
 Adding a remote 
 	git remote add origin [URL] 
+
+verifying remote: 
+ 	git remote -v
 
 After setup: 
 
@@ -30,6 +38,10 @@ Working on branch:
 git checkout [Branch Name] 
     command for switching to existing branch
 
+command for creating new branch and switching to this
+	$ git checkout -b [name_of_your_new_branch]
+
+	$ git push origin [name_of_your_new_branch]
 
 Status: 
 
@@ -40,5 +52,6 @@ Git status
 git remote -v
     Command for showing remotes 
 
-
+git clone
+	Makes a copy of existing - create new repository
 
