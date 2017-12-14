@@ -20,6 +20,10 @@ Daily work:
 Git Fetch 
     command for pulling down recent changes. 
 
+	May loose unsaved work // 
+	git reset --hard origin/master (Fetch pull all changes, reset adds them according to master)
+
+
 2. add your changes to stagging
 Git Add {filename or *}
     add your work to staging 
